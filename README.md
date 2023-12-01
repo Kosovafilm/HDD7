@@ -4,34 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>File Paths</title>
-    <style>
-        /* Optional: Add some basic styling for better presentation */
-        body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
-        }
-
-        h1 {
-            color: #333;
-        }
-
-        ul {
-            list-style-type: none;
-            padding: 0;
-        }
-
-        li {
-            margin-bottom: 5px;
-        }
-
-        ul ul {
-            margin-top: 5px;
-            margin-left: 20px;
-        }
-    </style>
-</head>
-<body>
-
+  
 <h1>List of File Paths</h1>
 
 <ul>
