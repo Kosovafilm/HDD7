@@ -10,8 +10,9 @@ HDD 7
 7. Home Sweet Home
 8. The HIll Where Lionesses Roar
 9. Tri dritare dhe nje varje
-10. Unwanted
-11. Vera andrron detin
+10. The Land Within Me
+11. Unwanted
+12. Vera andrron detin
 
 
 	- QKK Dokumentare/ FOLDER
@@ -34,7 +35,7 @@ HDD 7
 12.	The Flying Circus_Screener
 13.	Unwanted_Screener
 14.	Vera andrron detin_Screener
-15.	Zana_Screener
+16.	Zana_Screener
 
 	- QKK Screeners DVD/FOLDER
 1.	BABAI DVD
