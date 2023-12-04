@@ -51,7 +51,6 @@ HDD 7
 		5. Kthimi
 		6. Le hamster
 		7. LGBT Stigma
-   
 3.	Shok
 4.	BALCONY
 5.	FENCE
