@@ -1,110 +1,54 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>File Paths</title>
-  
-<h1>List of File Paths</h1>
+HDD 7
+QKK DCP/ FOLDER/
+1. Ajo
+2. Bloom
+3. Eho
+4. Hana e re
+5. Heroi
+6. Heshtja e sirenave
+7. Home Sweet Home
+8. The HIll Where Lionesses Roar
+9. Tri dritare dhe nje varje
+10. Unwanted
+11. Vera andrron detin
 
-<ul>
-    <li>F:\Bloom DCP
-        <ul>
-            <li>Master_DCP_Bloom
-                <ul>
-                    <li>Bloom_ADV-2D-24_C-190_BS-EN_51_2K_ID_20231025_SMPTE</li>
-                </ul>
-            </li>
-        </ul>
-    </li>
-    <li>F:\Disku_LaCie_Kopje
-        <ul>
-            <li>Dervishet II
-                <ul>
-                    <li>001
-                        <ul>
-                            <li>DPX (2048x1556)</li>
-                        </ul>
-                    </li>
-                </ul>
-            </li>
-            <li>KOSOVAFILM
-                <ul>
-                    <li>.fseventsd</li>
-                    <li>117
-                        <ul>
-                            <li>001
-                                <ul>
-                                    <li>TIFF (2048x1556)</li>
-                                </ul>
-                            </li>
-                            <li>117Audio_video</li>
-                            <li>117_DVD
-                                <ul>
-                                    <li>AUDIO_TS</li>
-                                    <li>VIDEO_TS</li>
-                                </ul>
-                            </li>
-                            <li>AE</li>
-                            <li>Export</li>
-                            <li>Projekti</li>
-                        </ul>
-                    </li>
-                    <!-- Continue adding nested lists as needed -->
-                </ul>
-            </li>
-        </ul>
-    </li>
-    <li>F:\Heshtja e sirenave
-        <ul>
-            <li>$RECYCLE.BIN</li>
-            <li>SilenceSirens_FTR_S-239_AL-EN_51_2048x858_FRAM_IMC</li>
-        </ul>
-    </li>
-    <li>F:\Home Sweet Home DCP
-        <ul>
-            <li>cpirra</li>
-            <li>Home Sweet Home-DCP</li>
-            <li>home swet home
-                <ul>
-                    <li>Home Sweet Home-DCP</li>
-                </ul>
-            </li>
-        </ul>
-    </li>
-    <li>F:\Illyricum DCP
-        <ul>
-            <li>DCP</li>
-        </ul>
-    </li>
-    <li>F:\The Hill Where Lionesses Roar
-        <ul>
-            <li>LCORLL_FTR_S_SQ_INT_51_2K_NULL_20220430_MS_IOP</li>
-        </ul>
-    </li>
-    <li>F:\Vera andrron detin
-        <ul>
-            <li>Vera clean DCP subs EN IT AL_AL AL_KS</li>
-            <li>Vera dreams of the sea BluRay</li>
-            <li>Vera dreams of the sea Trailers</li>
-            <li>Vera dreams of the sea Vimeo Mov</li>
-            <li>.Trashes
-                <ul>
-                    <li>501
-                        <ul>
-                            <li>Vera Dreams of the Sea DCP</li>
-                        </ul>
-                    </li>
-                </ul>
-            </li>
-        </ul>
-    </li>
-    <li>F:\Year of The MonkeyDCP
-        <ul>
-            <li>DCP</li>
-        </ul>
-    </li>
-</ul>
 
-</body>
-</html>
+	- QKK Dokumentare/ FOLDER
+1. DRUMS OF RESISTANCE
+
+	- QKK MINORITY/FOLDER
+1. BURRNESHA DCP 
+
+1.	QKK Screeners/FOLDER
+2.	Cold November_Screener
+3.	Eho_Screener
+4.	HIVE_Screener HIGH
+5.	HIVE_Screener LOW
+6.	Home Hweet Home 2_Screners
+7.	Luaneshat e kodres_Screener
+8.	Martesa_Screener
+9.	Nje Tregim Prishtine_Screener
+10.	Pranvere e paharruar_Screener
+11.	Shtepia e Ages_Screener
+12.	The Flying Circus_Screener
+13.	Unwanted_Screener
+14.	Vera andrron detin_Screener
+15.	Zana_Screener
+
+-	QKK Screeners DVD/FOLDER
+1.	BABAI DVD
+2.	DRUMS DVD
+3.	HEROI DVD
+4.	Tri dritare dhe nje varje DVD
+
+-	QKK Shorts SCREENERS/ FOLDER
+1.	Blerta Zeqiri FILMAT
+2.	Shok
+3.	BALCONY
+4.	FENCE
+5.	in_between
+6.	Kosova Dogs
+7.	pa_vend (displaced)
+8.	Si qeni n'rrush
+
+
