@@ -1,6 +1,6 @@
 HDD 7
 
-QKK DCP/ FOLDER/
+- QKK DCP/ FOLDER/
 1. Ajo
 2. Bloom
 3. Eho
@@ -20,7 +20,7 @@ QKK DCP/ FOLDER/
 	- QKK MINORITY/FOLDER
 1. BURRNESHA DCP 
 
-1.	QKK Screeners/FOLDER
+1.	- QKK Screeners/FOLDER
 2.	Cold November_Screener
 3.	Eho_Screener
 4.	HIVE_Screener HIGH
@@ -36,13 +36,13 @@ QKK DCP/ FOLDER/
 14.	Vera andrron detin_Screener
 15.	Zana_Screener
 
--	QKK Screeners DVD/FOLDER
+	- QKK Screeners DVD/FOLDER
 1.	BABAI DVD
 2.	DRUMS DVD
 3.	HEROI DVD
 4.	Tri dritare dhe nje varje DVD
 
--	QKK Shorts SCREENERS/ FOLDER
+	- QKK Shorts SCREENERS/ FOLDER
 1.	Blerta Zeqiri FILMAT
 2.	Shok
 3.	BALCONY
