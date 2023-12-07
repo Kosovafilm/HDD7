@@ -8,11 +8,13 @@ HDD 7
 5. Heroi
 6. Heshtja e sirenave
 7. Home Sweet Home
-8. The HIll Where Lionesses Roar
-9. Tri dritare dhe nje varje
-10. The Land Within Me
-11. Unwanted
-12. Vera andrron detin
+8. Lekura e krokodilit
+9. The Hill Where Lionesses Roar
+10. The Land Within Me 
+11. Tri dritare dhe nje varje
+12. The Land Within Me
+13. Unwanted
+14. Vera andrron detin
 
 
 	- QKK Dokumentare/ FOLDER
