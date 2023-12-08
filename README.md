@@ -3,22 +3,28 @@ HDD 7
 - QKK DCP/ FOLDER/
 1. Ajo
 2. Bloom
-3. Eho
-4. Hana e re
-5. Heroi
-6. Heshtja e sirenave
-7. Home Sweet Home
-8. Lekura e krokodilit
-9. The Hill Where Lionesses Roar
-10. The Land Within Me 
-11. Tri dritare dhe nje varje
-12. The Land Within Me
-13. Unwanted
-14. Vera andrron detin
+3. Bota jone
+4. Eho
+5. Hana e re
+6. Heroi
+7. Heshtja e sirenave
+8. Home Sweet Home
+9. I Love You More
+10. Lekura e krokodilit
+11. Sign
+12. The Hill Where Lionesses Roar
+13. The Land Within Me 
+14. Tri dritare dhe nje varje
+15. The Land Within Me
+16. Tri dritare dhe nje varje
+17. Unwanted
+18. Vera andrron detin
 
 
 	- QKK Dokumentare/ FOLDER
 1. DRUMS OF RESISTANCE
+2. Mbijetesa dhe shkolla
+3. The Hug of Destiny
 
 	
    	- QKK Screeners/FOLDER
