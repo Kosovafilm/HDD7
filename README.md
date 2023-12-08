@@ -20,9 +20,7 @@ HDD 7
 	- QKK Dokumentare/ FOLDER
 1. DRUMS OF RESISTANCE
 
-	- QKK MINORITY/FOLDER
-1. BURRNESHA DCP 
-
+	
    	- QKK Screeners/FOLDER
 2.	Cold November_Screener
 3.	Eho_Screener
