@@ -55,15 +55,15 @@ I:\QKK Screeners DVD
 I:\QKK Shorts SCREENERS
 
 I:\QKK Shorts SCREENERS\Blerta Zeqiri FILMAT
-I:\QKK Shorts SCREENERS\Blerta Zeqiri FILMAT\Darka.mov
-I:\QKK Shorts SCREENERS\Blerta Zeqiri FILMAT\EXIT Film- english subtitles.mp4
-I:\QKK Shorts SCREENERS\Blerta Zeqiri FILMAT\femijet 2nd cut final.avi
-I:\QKK Shorts SCREENERS\Blerta Zeqiri FILMAT\Kosova 2011.mpeg
-I:\QKK Shorts SCREENERS\Blerta Zeqiri FILMAT\KTHIMI 2012 sundance FINAL.mov
-I:\QKK Shorts SCREENERS\Blerta Zeqiri FILMAT\Le hamster.mpg
-I:\QKK Shorts SCREENERS\Blerta Zeqiri FILMAT\LGBT_Stigma_FINAL.mp4
-I:\QKK Shorts SCREENERS\Blerta Zeqiri FILMAT\Lista BlertaZeqiriFILMAT.txt
-I:\QKK Shorts SCREENERS\Shok\Shok Vimeo.mp4
+	I:\QKK Shorts SCREENERS\Blerta Zeqiri FILMAT\Darka.mov
+	I:\QKK Shorts SCREENERS\Blerta Zeqiri FILMAT\EXIT Film- english subtitles.mp4
+	I:\QKK Shorts SCREENERS\Blerta Zeqiri FILMAT\femijet 2nd cut final.avi
+	I:\QKK Shorts SCREENERS\Blerta Zeqiri FILMAT\Kosova 2011.mpeg
+	I:\QKK Shorts SCREENERS\Blerta Zeqiri FILMAT\KTHIMI 2012 sundance FINAL.mov
+	I:\QKK Shorts SCREENERS\Blerta Zeqiri FILMAT\Le hamster.mpg
+	I:\QKK Shorts SCREENERS\Blerta Zeqiri FILMAT\LGBT_Stigma_FINAL.mp4
+	I:\QKK Shorts SCREENERS\Blerta Zeqiri FILMAT\Lista BlertaZeqiriFILMAT.txt
+	I:\QKK Shorts SCREENERS\Shok\Shok Vimeo.mp4
 
 I:\QKK Shorts SCREENERS\Shok
 
