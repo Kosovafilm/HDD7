@@ -12,13 +12,13 @@ I:\QKK DCP
 	I:\QKK DCP\Lekura e krokodilit_DCP
 	I:\QKK DCP\Martesa
 	I:\QKK DCP\NJI PREJ NESH  ILIRIA FILM
-I:\QKK DCP\SIGN_DCP
-I:\QKK DCP\The Hill Where Lionesses Roar_DCP
-I:\QKK DCP\The Odyssey of Joy DCP
-I:\QKK DCP\TheLandWithinMe_DCP
-I:\QKK DCP\Tri Dritare DCP
-I:\QKK DCP\UNWANTED_FTR_F_25FPS_AL-EN_51_20170922_LLL6_VF3
-I:\QKK DCP\Vera andrron detin_DCP
+	I:\QKK DCP\SIGN_DCP
+	I:\QKK DCP\The Hill Where Lionesses Roar_DCP
+	I:\QKK DCP\The Odyssey of Joy DCP
+	I:\QKK DCP\TheLandWithinMe_DCP
+	I:\QKK DCP\Tri Dritare DCP
+	I:\QKK DCP\UNWANTED_FTR_F_25FPS_AL-EN_51_20170922_LLL6_VF3
+	I:\QKK DCP\Vera andrron detin_DCP
 
 
 I:\QKK Dokumentare
