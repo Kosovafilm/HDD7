@@ -29,10 +29,15 @@ QKK Dokumentare
 
 QKK Screeners
 	QKK Screeners\Babai_Screener
+	
 	QKK Screeners\Cold November_Screener
+	
 	QKK Screeners\Eho_Screener
+	
 	QKK Screeners\FolderList.txt
+	
 	QKK Screeners\HIVE_Screener HIGH
+	
 	QKK Screeners\HIVE_Screener LOW
 	QKK Screeners\Home Hweet Home 2_Screners
 	QKK Screeners\Krahet e punetoreve
@@ -54,9 +59,9 @@ QKK Screeners DVD
 
 QKK Shorts SCREENERS
 
- QKK Shorts SCREENERS\Blerta Zeqiri FILMAT
- QKK Shorts SCREENERS\Blerta Zeqiri FILMAT\Darka.mov
- QKK Shorts SCREENERS\Blerta Zeqiri FILMAT\EXIT Film- english subtitles.mp4
+QKK Shorts SCREENERS\Blerta Zeqiri FILMAT
+QKK Shorts SCREENERS\Blerta Zeqiri FILMAT\Darka.mov
+QKK Shorts SCREENERS\Blerta Zeqiri FILMAT\EXIT Film- english subtitles.mp4
 QKK Shorts SCREENERS\Blerta Zeqiri FILMAT\femijet 2nd cut final.avi
 QKK Shorts SCREENERS\Blerta Zeqiri FILMAT\Kosova 2011.mpeg
 QKK Shorts SCREENERS\Blerta Zeqiri FILMAT\KTHIMI 2012 sundance FINAL.mov
