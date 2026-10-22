@@ -1,18 +1,17 @@
 I:\QKK DCP
 
-
-I:\QKK DCP\AJO.dcp
-I:\QKK DCP\Bloom DCP
-I:\QKK DCP\Bota jone DCP
-I:\QKK DCP\EHO_DCP
-I:\QKK DCP\Hana e re_DCP
-I:\QKK DCP\HEROI DCP premiere 1
-I:\QKK DCP\Heshtja e sirenave_DCP
-I:\QKK DCP\Home Sweet Home_DCP
-I:\QKK DCP\ILYM_DCP
-I:\QKK DCP\Lekura e krokodilit_DCP
-I:\QKK DCP\Martesa
-I:\QKK DCP\NJI PREJ NESH  ILIRIA FILM
+	I:\QKK DCP\AJO.dcp
+	I:\QKK DCP\Bloom DCP
+	I:\QKK DCP\Bota jone DCP
+	I:\QKK DCP\EHO_DCP
+	I:\QKK DCP\Hana e re_DCP
+	I:\QKK DCP\HEROI DCP premiere 1
+	I:\QKK DCP\Heshtja e sirenave_DCP
+	I:\QKK DCP\Home Sweet Home_DCP
+	I:\QKK DCP\ILYM_DCP
+	I:\QKK DCP\Lekura e krokodilit_DCP
+	I:\QKK DCP\Martesa
+	I:\QKK DCP\NJI PREJ NESH  ILIRIA FILM
 I:\QKK DCP\SIGN_DCP
 I:\QKK DCP\The Hill Where Lionesses Roar_DCP
 I:\QKK DCP\The Odyssey of Joy DCP
